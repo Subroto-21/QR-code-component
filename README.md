@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./https://github.com/Subroto-21/QR-code-component/blob/main/Desktop.png)
-![](./https://github.com/Subroto-21/QR-code-component/blob/main/Mobile.png)
+![Desktop](./https://github.com/Subroto-21/QR-code-component/blob/main/Desktop.png)
+![Mobile](./https://github.com/Subroto-21/QR-code-component/blob/main/Mobile.png)
 
 ### Links
 
